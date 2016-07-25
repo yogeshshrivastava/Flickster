@@ -9,7 +9,7 @@ Time spent: 20-30 hours spent in total
 The following **required** functionality is completed:
 
 * [x] User can **scroll through current movies** from the Movie Database API
-* [x] Layout is optimized with the [ViewHolder] (Used Recycler View)
+* [x] Layout is optimized with Use of Recycler View with inbuildt [ViewHolder]
 * [x] For each movie displayed, user can see the following details:
   * [x] Title, Poster Image, Overview (Portrait mode)
   * [x] Title, Backdrop Image, Overview (Landscape mode)
@@ -35,6 +35,8 @@ The following **bonus** features are implemented:
 The following **additional** features are implemented:
 
 * [x] Share capabilty: users can share movies with others via email, facebook, etc
+* [x] More material design for details screen with Share and playing trailer 
+* [x] Added capability for viewing details for popular movies
 
 ## Video Walkthrough
 
