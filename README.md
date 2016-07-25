@@ -40,7 +40,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/lF1dJDk' title='Video Walkthrough Portrait' width='' alt='Video Walkthrough Portrait' />
+(flickster_1_portrait.gif)
+
+(flickster_1_landscape.gif)
+
+(flickster_email.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
