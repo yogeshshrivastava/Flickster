@@ -40,11 +40,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-(flickster_1_portrait.gif)
+![Video Portrait](flickster_1_portrait.gif)
 
-(flickster_1_landscape.gif)
+![Video Landscape](flickster_1_landscape.gif)
 
-(flickster_email.gif)
+![Video Email format](flickster_email.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
