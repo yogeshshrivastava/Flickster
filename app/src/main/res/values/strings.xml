@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flickster</string>
+    <string name="play_trailer">Play Trailer</string>
+    <string name="server_error">Unable to get information from the Server, please try again
+        later..
+    </string>
+    <string name="share_check_trailer">"Check the Trailer: "</string>
+    <string name="share_trailer_title">"Trailer: "</string>
+    <string name="share_overview_title">" \n\nOverview\n"</string>
+    <string name="share_title">Share Movie!</string>
+</resources>
