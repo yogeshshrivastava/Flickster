@@ -48,7 +48,7 @@ Here's a walkthrough of implemented user stories:
 
 ![Video Email format](flickster_email.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [LiceCap](http://www.cockos.com/licecap/) , [Vysor] (http://www.vysor.io/)
 
 ## Notes
 
